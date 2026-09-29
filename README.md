@@ -83,3 +83,16 @@ Flower-Bouquet-Bloomer-/
 ├── manage.py
 ├── .gitignore
 └── README.md
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Bloomify Home Page](screenshot/home.png)
+
+### 🌸 Products
+![Bloomify Products](screenshot/products.png)
+
+### 🛒 Shopping Cart
+![Bloomify Cart](screenshot/cart.png)
+
+### 💳 Checkout
+![Bloomify Checkout](screenshot/checkout.png)
